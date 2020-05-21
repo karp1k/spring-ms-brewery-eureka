@@ -1,4 +1,4 @@
-# spring-ms-brewery-gateway
+# spring-ms-brewery-eureka
 
 check the project page! [*see*](https://github.com/users/karp1k/projects/1)
 
